@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E1FD245D1998D13000663670"
-               BuildableName = "BounceTest.app"
-               BlueprintName = "BounceTest"
-               ReferencedContainer = "container:BounceTest.xcodeproj">
+               BlueprintIdentifier = "E12E517F199D0B1000E9E59A"
+               BuildableName = "SwiftPlatformer.app"
+               BlueprintName = "SwiftPlatformer"
+               ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E1FD24781998D13000663670"
-               BuildableName = "BounceTestTests.xctest"
-               BlueprintName = "BounceTestTests"
-               ReferencedContainer = "container:BounceTest.xcodeproj">
+               BlueprintIdentifier = "E12E5195199D0B1000E9E59A"
+               BuildableName = "SwiftPlatformerTests.xctest"
+               BlueprintName = "SwiftPlatformerTests"
+               ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E1FD24781998D13000663670"
-               BuildableName = "BounceTestTests.xctest"
-               BlueprintName = "BounceTestTests"
-               ReferencedContainer = "container:BounceTest.xcodeproj">
+               BlueprintIdentifier = "E12E5195199D0B1000E9E59A"
+               BuildableName = "SwiftPlatformerTests.xctest"
+               BlueprintName = "SwiftPlatformerTests"
+               ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E1FD245D1998D13000663670"
-            BuildableName = "BounceTest.app"
-            BlueprintName = "BounceTest"
-            ReferencedContainer = "container:BounceTest.xcodeproj">
+            BlueprintIdentifier = "E12E517F199D0B1000E9E59A"
+            BuildableName = "SwiftPlatformer.app"
+            BlueprintName = "SwiftPlatformer"
+            ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E1FD245D1998D13000663670"
-            BuildableName = "BounceTest.app"
-            BlueprintName = "BounceTest"
-            ReferencedContainer = "container:BounceTest.xcodeproj">
+            BlueprintIdentifier = "E12E517F199D0B1000E9E59A"
+            BuildableName = "SwiftPlatformer.app"
+            BlueprintName = "SwiftPlatformer"
+            ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E1FD245D1998D13000663670"
-            BuildableName = "BounceTest.app"
-            BlueprintName = "BounceTest"
-            ReferencedContainer = "container:BounceTest.xcodeproj">
+            BlueprintIdentifier = "E12E517F199D0B1000E9E59A"
+            BuildableName = "SwiftPlatformer.app"
+            BlueprintName = "SwiftPlatformer"
+            ReferencedContainer = "container:SwiftPlatformer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

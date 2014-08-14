@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>BounceTest.xcscheme</key>
+		<key>SwiftPlatformer.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E1FD245D1998D13000663670</key>
+		<key>E12E517F199D0B1000E9E59A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E1FD24781998D13000663670</key>
+		<key>E12E5195199D0B1000E9E59A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
